@@ -1,3 +1,4 @@
-julien@ubuntu:/tmp/h$ tail -1 0-iam_betty | wc -c
-9
-julien@ubuntu:/tmp/h$
+nano switch_user.sh
+su betty
+chmod +x switch_user.sh
+tail -1 switch_user.sh | wc -c
