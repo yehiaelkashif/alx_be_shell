@@ -1,4 +1,4 @@
-nano switch_user.sh
+#!/bin/bash
 su betty
 chmod +x switch_user.sh
-tail -1 switch_user.sh | wc -c
+su betty
