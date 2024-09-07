@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 5-add-execute-permission
+chmod u+x hello
